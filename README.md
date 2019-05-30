@@ -1,8 +1,7 @@
 # lastWeek
 
 # Project Title and purpose
-
-One Paragraph of project description goes here
+dddd
 
 ### Difficulties or opportunities you encountered along the way.
 
